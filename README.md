@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://microcolonies-files.fra1.cdn.digitaloceanspaces.com/takezo/ghostintheshell.png" width="200"/>
+  <img src="https://microcolonies-files.fra1.cdn.digitaloceanspaces.com/takezo/fox.png" width="200"/>
   <div id="badges">
   <a href="[your-twitter-URL](https://twitter.com/takez0_o)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
